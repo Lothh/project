@@ -1,0 +1,26 @@
+/***********Tag selectors**************/
+body {
+  background-color: #e8ffff;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 3px;
+  border-color: lightgrey;
+  width: 80%;
+}
+h1 {
+   color: #213e3b
+}
+h3 {
+color: #66bfbf
+}
+
+p, td, li {
+color: #213e3b
+}
+
+html {
+font-family: 'Questrial';
+}
+/********* class selectors */
